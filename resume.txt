@@ -1,0 +1,116 @@
+I help organizations make data-driven decisions so that they can optimize business operations, reduce costs, increase customer satisfaction, and increase revenue. I also help them stay competitive by leveraging data to develop innovative products and services.
+
+I write about my adventures in data science on Medium in publications like Towards Data Science and the Data Science Nerd Blog.
+
+Résumé
+
+Ednalyn C. De Dios, a.k.a. “Dd”
+(210) 236-2685
+ednalyn.dedios@gmail.com
+
+CAREER PROFILE
+
+Over ten years of management experience. Four years of data science experience in various industries, including FinTech/BPO, pharmaceuticals, and tech. CompTIA A+, Project+, and Network+ certified.
+
+CAREER HIGHLIGHTS
+
+Served as a senior associate data scientist in the FinTech/BPO industry, leveraging natural language processing, network graph analysis, and other techniques to extract insights from large datasets.
+
+Developed automation solutions for a pharmaceutical company, including optical character recognition (OCR) and natural language processing (NLP) techniques to convert unstructured data into functional business documents.
+
+Currently serving as a Machine Learning Support Engineer at Microsoft, providing technical support, and troubleshooting for machine learning models and systems.
+
+Created agency’s domestic violence ‘Crisis to Confidence’ program as Family Violence Unit Director, and increased productivity of staff members and volunteers by 50% as Office of Project Management and IT Director at Aware Central Texas.
+
+TECHNICAL SKILLS
+
+Natural Language Processing – Spacy – NLTK – GSDMM – LDA – Network Graph Analysis – Data Wrangling – ETL – Data Crunching – EDA – Applied Statistics – Machine Learning –Distributed Data – Data Storytelling – Git – Jupyter Notebooks – Anaconda – Python – SQL – Spark – Tableau – Pandas – Numpy – Matplotlib – Seaborn – Scikit Learn – HTML – CSS – JavaScript – Visual Basic – Bootstrap – PHP – Power BI – OCR – Computer Vision – Azure Machine Learning Studio - Project Management – LLM – OpenAI – Semantic Kernel – Langchain – Prompt Engineering
+
+PROFESSIONAL EXPERIENCE
+
+InsightsGlobal – Merck & Microsoft
+
+Responsible for providing technical support and troubleshooting for machine learning models and systems. This involves model monitoring and troubleshooting, technical support, documentation and training, performance optimization, collaboration with data scientists and developers, and research and development.
+
+Developed automation solutions for a pharmaceutical company. Performed optical character recognition (OCR) natural language processing techniques (NLP) to convert large unstructured datasets into functional business documents. Worked in Python, AWS, and UiPath.
+
+TaskUs
+
+Worked with large structured and unstructured data sets, cleaning/scrubbing data sets, build/deploy models. Scoped innovative solutions. Worked with stakeholders on applying and delivering AI at scale. Conducts exploratory data analysis using NLP techniques. Created end-to-end data pipelines in AWS using Lambda, API Gateway, etc. Delivered actionable insights to stakeholders.
+
+Aware Central Texas
+
+Increased productivity of staff members and volunteers while serving as Chief Information Director. Established agency’s domestic violence ‘Crisis to Confidence’ program as the Family Violence Unit Director in a child abuse prevention agency.
+
+ACADEMIC EXPERIENCE
+
+Western Governors University, MS in Data Analytics
+
+Western Governors University, BS in Data Management and Data Analytics
+
+Codeup, Fully-immersive, project-based 18-week Data Science career accelerator that provides students with 600+ hours of expert instruction in applied data science. Students develop expertise across the full data science pipeline (planning, acquisition, preparation, exploration, modeling, delivery), and become comfortable working with real, messy data to deliver actionable insights to diverse stakeholders.
+
+HONORS & AWARDS
+
+Winner of CivTechSA Datathon 2019 – Joint-Service Commendation Medal – Navy Good Conduct Medal – Admiral’s Letter of Merit – Sailor of the Year – Sailor of the Quarter – Global War on Terrorism Service Medal – Iraqi Campaign Medal – Armed Forces Expeditionary Medal – Enlisted Surface Warfare Specialist – Enlisted Aviation Warfare Specialist
+
+CERTIFICATIONS
+
+LinkedIn Learning courses on Data Science and Machine Learning:
+
+Building Apps with AI Tools: ChatGPT, Semantic Kernel, and Langchain
+Building Skills with Semantic Kernel
+Generative AI: Working with Large Language Models
+Introduction Semantic Kernel: Building AI-Based Apps
+Introduction to Prompt Engineering for Generative AI
+Root Cause Analysis: Getting to the Root of Business Problems
+Data Analytics: Dashboards vs. Data Stories
+Machine Learning Specialist, Cloud Academy
+AI-900 Exam Preparation: Microsoft Azure AI Fundamentals
+Advanced NLP with Python for Machine Learning
+Amazon Web Services for Data Science
+NLP for Python for Machine Learning Essential Training
+Deploying Scalable Machine Learning for Data Science
+Master Course in Tableau 10 & 2019 for Business Intelligence
+Basic Statistics
+Data Science Math Skills
+Mathematics for Machine Learning: Linear Algebra
+Python for Data Science
+
+Information Technology - CompTIA Certifications
+
+A+
+Network+
+Project+
+
+LinkedIn Learning courses on Information Technology:
+
+AWS for DevOps: Continuous Delivery and Process Automation
+Intermediate Python – Python Programming
+Introduction to Python – Python Programming
+Docker in 1 Hour
+
+Udemy courses on Information Technology:
+
+Amazon Web Services – Learning and Implementing AWS
+
+LinkedIn Learning courses on Project Management:
+
+Project+
+Basics of Scrum Agile and Product Delivery
+Make Your Agile Team Faster and More Productive
+Process Management Certification
+
+LinkedIn Learning courses on Leadership and Management:
+
+Hiring a Chief Data Officer
+Leading and Motivating People with Different Personalities
+Managing a Multigenerational Team
+Inclusive Leadership
+Critical Thinking for More Effective Communication
+Data Strategy
+Strategic Thinking
+Leaders Eat Last: Why Some Teams Pull Together and Others Don’t
+Multipliers: How the Best Leaders Make Everyone Smarter
+
+##
