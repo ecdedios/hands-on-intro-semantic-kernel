@@ -6,10 +6,9 @@
 
 ### Usage
 
-Written in Python 3.9.9.
-Packages used:
+Written in Python 3.9.9. Packages used:
 
--
+- semantic-kernel
 
 ## Meta
 
