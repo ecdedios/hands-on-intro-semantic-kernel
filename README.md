@@ -4,7 +4,9 @@
 
 ## Project Description
 
-### Usage
+The goal of this project is to demonstrate how to use semantic kernel in both the python console and the web browser.
+
+## Usage
 
 Written in Python 3.9.9. Packages used:
 
