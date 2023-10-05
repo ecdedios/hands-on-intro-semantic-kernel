@@ -28,7 +28,7 @@ Natural Language Processing – Spacy – NLTK – GSDMM – LDA – Network Gra
 
 PROFESSIONAL EXPERIENCE
 
-InsightsGlobal – Merck & Microsoft
+Insight Global – Merck & Microsoft
 
 Responsible for providing technical support and troubleshooting for machine learning models and systems. This involves model monitoring and troubleshooting, technical support, documentation and training, performance optimization, collaboration with data scientists and developers, and research and development.
 
@@ -114,3 +114,5 @@ Leaders Eat Last: Why Some Teams Pull Together and Others Don’t
 Multipliers: How the Best Leaders Make Everyone Smarter
 
 ##
+
+Answer the following question  based on the resume above.

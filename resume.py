@@ -9,11 +9,12 @@ kernel.add_text_completion_service("dv", OpenAIChatCompletion("gpt-3.5-turbo", a
 with open('resume.txt', encoding='utf-8') as f:
     lines = f.readlines()
 
-user_input = input('Prompt: ')
+user_input = input('\nWhat is your question? ')
     
 prompt = ' '.join(lines) + ' ' + user_input
 
 response = kernel.create_semantic_function(prompt)
 
 print(response())
+print("\n\n")
 
