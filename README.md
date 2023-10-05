@@ -9,6 +9,9 @@
 Written in Python 3.9.9. Packages used:
 
 - semantic-kernel
+- flask
+
+Run in the console with `python ask.py` or in the web browser by calling `FLASK_APP=app`.
 
 ## Meta
 
