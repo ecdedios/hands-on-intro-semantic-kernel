@@ -1,0 +1,7 @@
+<h1>Ask a question.</h1>
+
+<form method="POST" action="/submit">
+    <textarea id="prompt" name="prompt" rows="4" cols="50">{{ request.form['prompt'] }}</textarea>
+    <p>&nbsp;</p>
+    <input class="btn" type="submit" value="Submit">
+</form>
