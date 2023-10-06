@@ -7,8 +7,8 @@ def chatgpt(prompt):
     kernel.add_text_completion_service("dv", OpenAIChatCompletion("gpt-3.5-turbo", api_key, org_id))
     with open('resume.txt', encoding='utf-8') as f:
         lines = f.readlines()
-    whole_input = ' '.join(lines) + ' ' + prompt
-    semantic_function = kernel.create_semantic_function(whole_input)
+    user_input = ' '.join(lines) + ' ' + prompt
+    semantic_function = kernel.create_semantic_function(user_input)
     response = semantic_function()
     return response
 

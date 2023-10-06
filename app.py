@@ -13,4 +13,5 @@ def prompt():
     response = prompter.chatgpt(prompt)
     return render_template('/submit.html',
                            prompt = prompt,
-                           response = response)    
+                           response = response)
+
